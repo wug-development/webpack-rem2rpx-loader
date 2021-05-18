@@ -16,7 +16,10 @@
     "loader",
     "rem",
     "rpx",
-    "any"
+    "any",
+    "less",
+    "sass",
+    "css"
   ],
   "license": "MIT",
   "bugs": {

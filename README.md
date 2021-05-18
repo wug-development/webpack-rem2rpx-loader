@@ -7,7 +7,6 @@ Webpack loader
 module.exports = merge({
     chainWebpack: (config) => {
         const rem2rpx = 'webpack-rem2rpx-loader'
-        // config.resolveLoader.alias.set(rem2rpx, path.resolve(__dirname, `./loaders/${rem2rpx}.js`))
         config.module
             .rule('myCssRule')
             .test(/\.scss$/)
