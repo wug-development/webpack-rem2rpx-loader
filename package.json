@@ -1,0 +1,26 @@
+{
+  "name": "webpack-rem2rpx-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wug-development/webpack-rem2rpx-loader.git"
+  },
+  "author": "guangwu_dev",
+  "keywords": [
+    "webpack",
+    "loader",
+    "rem",
+    "rpx",
+    "any"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wug-development/webpack-rem2rpx-loader/issues"
+  },
+  "homepage": "https://github.com/wug-development/webpack-rem2rpx-loader#readme"
+}
