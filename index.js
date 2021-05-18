@@ -2,8 +2,8 @@
 const loaderUtils = require('loader-utils')
 const merge = require('webpack-merge')
 const defaultConfig = {
-    fromUnit: 'rpx',
-    toUnit: 'rem',
+    fromUnit: 'rem',
+    toUnit: 'rpx',
     times: 100,
     unitPrecision: 0
 }
